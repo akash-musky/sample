@@ -1,0 +1,94 @@
+body{
+  margin: 0px;
+}
+.Right
+{
+    font-family: 'Gill Sans', 'Gill Sans MT','Calibri' , 'Trebuchet MS', sans-serif;
+    padding-top: 1vh;
+}
+.Left
+{
+    
+    padding: 1vh;
+    
+}
+.Righti
+{
+  font-family: 'Gill Sans', 'Gill Sans MT','Calibri' , 'Trebuchet MS', sans-serif;
+    padding-top: 1vh;
+    margin-left: 5vw;
+    margin-top:  2vh;
+}
+.Lefti
+{
+    
+    padding: 3vh;
+    margin-right: 5vw;
+    margin-top:  2vh;
+    
+}
+.nav
+{
+  
+  position: fixed;
+  top: 0;
+
+ display: flex;
+ justify-content: space-between; 
+ flex-direction: row; 
+ /* align-items: flex-end; */
+ background-color: #595959;
+ height: 8vh;
+ text-align: center;
+ width: 100vw;
+
+}
+.navi
+{
+  position: fixed;
+  top: 8vh;
+  margin: 0px;
+ display: flex;
+ justify-content: space-between; 
+ flex-direction: row; 
+ /* align-items: flex-end; */
+ background-color: #fafafa;
+ height: 15vh;
+ text-align: center;
+ width: 100vw;
+
+}
+
+.navlinki
+{
+  padding: 2vh 1vw 1vh 2vw;
+  color:  rgba(94, 91, 91, 0.89);
+  font-size:   15px;
+  text-decoration: none;
+}
+.navlink
+{
+  padding: 2vh 1vw 1vh 2vw;
+  color:  rgba(255, 255, 255, 0.89);
+  font-size:   20px;
+  text-decoration: none;
+}
+
+
+.Right-header
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 1vh;
+}
+
+
+
+.travel
+{
+width: 100vw;
+height: 100vh;
+}
+.logo{
+  width: 5vw;
+  height: 5vh;
+}

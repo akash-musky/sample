@@ -9,7 +9,7 @@ dotenv.config()
 
  app.get('/' ,(req,res)=>{
 
-     res.send("Hello Backend!!")
+     res.send("Hello Raushan!!")
  })
 
 app.listen(
